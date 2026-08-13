@@ -1,0 +1,28 @@
+TRUTH TABLE GENERATOR - OUTPUT
+
+===== TRUTH TABLE GENERATOR =====
+
+1. AND
+2. OR
+3. XOR
+4. NAND
+5. NOR
+
+Choose gate: 1
+
+A B | Y
+0 0 | 0
+0 1 | 0
+1 0 | 0
+1 1 | 1
+
+
+Second Test - XOR
+
+Choose gate: 3
+
+A B | Y
+0 0 | 0
+0 1 | 1
+1 0 | 1
+1 1 | 0
